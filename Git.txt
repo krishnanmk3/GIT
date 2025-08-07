@@ -1,0 +1,42 @@
+Create a repository first:
+Then select folder
+Open folder: cmd 
+                            Code .
+Open terminal:
+* Past bottom lines
+* Past upper lines 
+* git add .
+* git commit -m “ “
+* git push
+
+
+
+or
+Create a repository first:
+Then select folder
+ open gitbash
+* Past upper lines repositories
+* git add .
+* git commit -m “ “
+* git push
+* 
+
+create a token:
+installed visual studio code
+Then sig in with your GitHub account 
+Generated token 
+Go to GitHub settings
+Then go to Developer settings
+Personal access tokens click Token (classic)
+Generate new token Click Generate new token (classic)
+Then selected all options 
+Then token will Generated 
+Past the token in visual studio code. 
+
+ 
+
+
+ 
+
+ 
+
